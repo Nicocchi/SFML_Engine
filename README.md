@@ -1,2 +1,3 @@
 # SFML_Engine
-SFML Engine
+
+Small game engine built with C++ using SFML
